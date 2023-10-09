@@ -1,9 +1,9 @@
 removed old data 
-creating conflict using this line manually
+creating conflict
 removed the , added something here
 
 this is new line - line 1
-this is new line - line 2
+addded some new line in place of line 2
 this is new line - line 3
 this is new line - line 4
 
