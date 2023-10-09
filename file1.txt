@@ -1,5 +1,5 @@
 removed old data 
-adding conflict this is from feature branch file
+this is line from 1st file
 
 removed the , added something here
 
