@@ -1,5 +1,6 @@
 removed old data 
-creating conflict
+creating conflict line from feature branch
+   
 removed the , added something here
 
 this is new line - line 1
