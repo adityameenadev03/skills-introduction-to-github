@@ -1,7 +1,7 @@
 removed old data 
-this is line from 2nd file
+this is line from 1st file
 
-4th line from feature branch
+removed the , added something here
 
 this is new line - line 1
 addded some new line in place of line 2
