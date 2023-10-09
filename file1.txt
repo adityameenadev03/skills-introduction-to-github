@@ -1,7 +1,6 @@
+removed old data 
+
 removed the , added something here
 
-also added new line here
+this is new line - line 1
 
-added some more line this is some other commit, want to  check what rebasing is
-
-this is old line not a new line for now feature
